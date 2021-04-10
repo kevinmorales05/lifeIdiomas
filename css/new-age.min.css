@@ -408,3 +408,12 @@ footer ul li a:hover {
 .bg-primary {
   background-color: #333d8d!important; 
 }
+
+.videoVocacional{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+
+}
