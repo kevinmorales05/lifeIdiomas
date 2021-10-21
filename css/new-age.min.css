@@ -139,7 +139,7 @@ header.masthead {
   padding-top: 150px;
   padding-bottom: 100px;
   color: #fff;
-  background-image: url('../img/bgLife.jpg');
+  background-image: url('https://firebasestorage.googleapis.com/v0/b/icodetech-c2c1b.appspot.com/o/fondos%2Frear-view-programmer-working-all-night-long.jpg?alt=media&token=96e7f48a-e5dc-4560-9ef6-2cc716f620a3');
   opacity: 0.9;
   background-size: cover;
   
@@ -330,7 +330,7 @@ footer {
   padding: 25px 0;
   text-align: center;
   color: white;
-  background-color: #c1272d;
+  background-color:  #f48cac ;
 }
 footer p {
   font-size: 12px;
@@ -388,8 +388,8 @@ footer ul li a:hover {
 }
 .btn-primary{
 	color: white !important;
-	border-color: #c1272d !important;
-	background: #c1272d;
+	border-color:  #f48cac  !important;
+	background:  #f48cac ;
 }
 .btn-primary :hover{
 	color: white !important;
